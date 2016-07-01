@@ -1,0 +1,25 @@
+GetStatus status
+GetStatus system status
+GetStatus what is the system status
+GetStatus how are the trains doing
+GetStatus what is the current status
+GetStatus what do the trains look like right now
+GetStatus how are the trains looking
+GetStatus are there any issues
+GetStatus are there any problems
+GetStatus are there any problems with the trains
+GetStatus are the trains running on schedule
+GetStatus are the trains running to schedule
+GetStatus is bart running normally
+GetStatus is bart doing ok
+GetElevators are there any elevator outages
+GetElevators are there any elevator outages right now
+GetElevators which elevators are out of order
+GetElevators how are the elevators
+GetElevators how are the elevators looking
+GetElevators are there any problems with the elevators
+
+GetTrainTimes when are the trains from {Station}
+GetTrainTimes what time are the trains from {Station}
+GetTrainTimes trains from {Station}
+GetTrainTimes departures from {Station}

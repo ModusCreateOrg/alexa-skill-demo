@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "intent": "GetStatus"
+        },
+        {
+            "intent": "GetElevators"
+        },
+        {
+            "intent": "GetTrainTimes",
+            "slots": [
+                {
+                    "name": "Station",
+                    "type": "LIST_OF_STATIONS"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
